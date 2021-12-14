@@ -1,2 +1,2 @@
-# vue-google-plugin
-vue-开发google插件
+# webpack-ts-google-plugin
+webpack5+ts 构建Google plugin 开发
